@@ -1,0 +1,14 @@
+# Jupyter Book configuration
+title: AI at the Doctor's Office – Explaining Heart Disease Predictions
+author: Ysais Martinez
+language: en
+execute:
+  execute_notebooks: auto
+repository:
+  url: ""
+  path_to_book: ""
+html:
+  favicon: ""
+  use_repository_button: false
+  use_issues_button: false
+  use_edit_page_button: false

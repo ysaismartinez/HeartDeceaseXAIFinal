@@ -1,0 +1,5 @@
+format: jb-book
+# I condensed the notebooks into one so you can ignore the notes below. 
+root: notebooks/01_heart_data_and_models 
+chapters:
+  - file: notebooks/02_explainability_and_clinic_demo
