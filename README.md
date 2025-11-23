@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysaismartinez/HeartDeceaseXAIFinal/blob/main/ai_heart_jbook/notebooks/heart_decease_xai_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ysaismartinez/HeartDeceaseXAIFinal/blob/main/ai_heart_jbook/notebooks/heart_decease_xai_final_upd.ipynb)
